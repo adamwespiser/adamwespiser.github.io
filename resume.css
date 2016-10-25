@@ -1,0 +1,27 @@
+
+body {
+    font-family: monospace;
+		font-size: 12pt;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+		width: 660pt;
+		margin: 0 auto;
+
+		background-color: #faebd7;
+}
+
+#tag { 
+    font-family: monospace;
+		font-size: 10pt;
+		font-style: normal;
+		font-variant: normal;
+		font-weight: 500;
+}
+/*
+#page-wrap {
+		     width: 600px;
+				      margin: 0 auto;
+					}
+					*/
+
